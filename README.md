@@ -1,49 +1,71 @@
-🤗 Hey There, I am [Your Name]. I am a 
+# 👋 Hello, World! I'm Chirag. 
 
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=7b36eb&center=true&vCenter=true&width=500&lines=Your+Title+1;Your+Title+2;Your+Title+3" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=GPU+Accelerated+AI+Engineer;NVIDIA+Tech+Stack+Expert;Machine+Learning+Enthusiast;Open+Source+Contributor;Tech+Innovator" alt="Typing SVG" /></a>
 </p>
 
-## 📈 &nbsp;Activity Graph
+---
 
-[![YourName's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=tokyo-night)](https://github.com/YourGitHubUsername/github-readme-activity-graph)
+## 🚀 About Me
+- 🌟 Passionate about **AI**, **GPU-accelerated computing**, and cutting-edge **NVIDIA technologies**.
+- 🔭 Currently exploring **deep learning frameworks** and optimizing **ML pipelines** with **CUDA** and **NVIDIA libraries**.
+- 💬 Ask me about **machine learning**, **NVIDIA CUDA**, **TensorRT**, or anything **AI-related**!
+- 🛠️ Open to collaboration on impactful **AI/ML projects**.
+- ⚡ Fun Fact: I believe the future of AI is **accelerated, intelligent, and sustainable**.
 
-## 🛠 &nbsp;Tech Stack
-__Programming Languages__ \
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp;
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>&nbsp;
+---
 
-__Frameworks and Libraries__ \
-<img alt="Framework1" src="https://img.shields.io/badge/your-framework-YourColor?style=for-the-badge"/>&nbsp;
-<img alt="Framework2" src="https://img.shields.io/badge/your-framework-YourColor?style=for-the-badge"/>&nbsp;
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-profile)
 
-__IDEs/Editors__ \
-<img alt="Editor1" src="https://img.shields.io/badge/editor1-0078d7.svg?style=for-the-badge&logo=editor1&logoColor=white"/>&nbsp;
-<img alt="Editor2" src="https://img.shields.io/badge/editor2-143?style=for-the-badge&logo=editor2&logoColor=black&color=black&labelColor=green"/>&nbsp;
+---
 
-__Version Control__ \
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>&nbsp;
+## 💻 Tech Stack
+### 🧠 Machine Learning / Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
 
-__Databases__ \
-<img alt="Database1" src="https://img.shields.io/badge/Database1-%234ea94b.svg?style=for-the-badge&logo=database1&logoColor=white"/>&nbsp;
-<img alt="Database2" src="https://img.shields.io/badge/Database2-%2300f.svg?style=for-the-badge&logo=database2&logoColor=white"/>&nbsp;
+### 📊 Data Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
-__Machine Learning/Deep Learning__ \
-<img alt="MLTool1" src="https://img.shields.io/badge/MLTool1-%23D00000.svg?style=for-the-badge&logo=mltool1&logoColor=white"/>&nbsp;
-<img alt="MLTool2" src="https://img.shields.io/badge/MLTool2-%23FF6F00.svg?style=for-the-badge&logo=mltool2&logoColor=white" />&nbsp;
+### 🛠️ Programming & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 
-## ⚙️ &nbsp;GitHub Analytics
+### 🚀 GPU Accelerated Tools
+![NVIDIA Nsight](https://img.shields.io/badge/NVIDIA%20Nsight-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
+![cuDNN](https://img.shields.io/badge/cuDNN-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
+![TensorRT](https://img.shields.io/badge/TensorRT-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=brightgreen&style=flat-square" alt="YourGitHubUsername" /> </p>
+### 📦 DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
 
+---
+
+## 📈 GitHub Stats
 <p align="center">
-<a href="https://github.com/YourGitHubUsername">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
-## 🎖️ &nbsp;Badges
+---
 
-[![YourName's Holopin board](https://holopin.me/yourusername)](https://www.holopin.io/@yourusername)
+## 🌟 Achievements & Badges
+[![Holopin Board](https://holopin.me/yourname)](https://holopin.io/@yourname)
+
+---
+
+### ✍️ Random Dev Quote
+> *"The only way to achieve the impossible is to believe it is possible."*
+
+---
