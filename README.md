@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Chirag. 
+# 🔥 Fueling the engines of AI. Hi, I'm Chirag!
 
 <p align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=GPU+Accelerated+AI+Engineer;NVIDIA+Tech+Stack+Expert;Machine+Learning+Enthusiast;Open+Source+Contributor;Tech+Innovator" alt="Typing SVG" /></a>
@@ -9,7 +9,7 @@
 ## 🚀 About Me
 - 🌟 Passionate about **AI**, **GPU-accelerated computing**, and cutting-edge **NVIDIA technologies**.
 - 🔭 Currently exploring **deep learning frameworks** and optimizing **ML pipelines** with **CUDA** and **NVIDIA libraries**.
-- 💬 Ask me about **machine learning**, **NVIDIA CUDA**, **TensorRT**, or anything **AI-related**!
+- 💬 Ask me about **Machine Learning**, **NVIDIA CUDA**, **TensorRT**, **NVIDIA DGX** or anything **AI-related**!
 - 🛠️ Open to collaboration on impactful **AI/ML projects**.
 - ⚡ Fun Fact: I believe the future of AI is **accelerated, intelligent, and sustainable**.
 
@@ -22,13 +22,20 @@
 
 ---
 
-## 💻 Tech Stack
+## 🎨 Tech Palette
 ### 🧠 Machine Learning / Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
+
+### 🚀 GPU Accelerated Tools
+![NVIDIA Nsight](https://img.shields.io/badge/NVIDIA%20Nsight-2f2f2f.svg?style=for-the-badge&logo=NVIDIA&logoColor=green)
+![NVIDIA NGC](https://img.shields.io/badge/NVIDIA%20NGC-2f2f2f.svg?style=for-the-badge&logo=NVIDIA&logoColor=green)
+![cuDNN](https://img.shields.io/badge/cuDNN-2f2f2f.svg?style=for-the-badge&logo=NVIDIA&logoColor=green)
+![CUDA-X](https://img.shields.io/badge/CUDA-2f2f2f.svg?style=for-the-badge&logo=NVIDIA&logoColor=green)
+![TensorRT](https://img.shields.io/badge/TensorRT-2f2f2f.svg?style=for-the-badge&logo=NVIDIA&logoColor=green)
+![NVIDIA DGX](https://img.shields.io/badge/NVIDIA%20DGX-2f2f2f.svg?style=for-the-badge&logo=NVIDIA&logoColor=green)
+![RAPIDS](https://img.shields.io/badge/RAPIDS-7f3bff.svg?style=for-the-badge&logo=Rapids&logoColor=white)
 
 ### 📊 Data Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=Pandas&logoColor=white)
@@ -41,11 +48,6 @@
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white)
 
-### 🚀 GPU Accelerated Tools
-![NVIDIA Nsight](https://img.shields.io/badge/NVIDIA%20Nsight-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
-![cuDNN](https://img.shields.io/badge/cuDNN-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
-![TensorRT](https://img.shields.io/badge/TensorRT-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white)
-
 ### 📦 DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white)
@@ -54,18 +56,24 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=venev-g&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=venev-g&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=venev-g&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=venev-g&layout=compact&langs_count=10&theme=synthwave"/>
 </p>
 
----
+## 🏆 GitHub Trophies
 
-## 🌟 Achievements & Badges
+![](https://github-profile-trophy.vercel.app/?username=venev-g&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=venev-g&limit=6&theme=synthwave&combine_all_yearly_contributions=true)
+
+---
+<!--## 🌟 Achievements & Badges
 [![Holopin Board](https://holopin.me/yourname)](https://holopin.io/@yourname)
-
----
-
+-->
 ### ✍️ Random Dev Quote
-> *"The only way to achieve the impossible is to believe it is possible."*
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
