@@ -1,5 +1,7 @@
-# 🔥 Fueling the engines of AI. Hi, I'm Chirag!
-
+# 🔥Fueling the engines of AI. Hi, I'm Chirag!
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=venev-g&label=Profile%20views&color=blueviolet&style=plastic" alt="Profile Views" />
+</p>
 <p align="center"> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=GPU+Accelerated+AI+Engineer;NVIDIA+Tech+Stack+Expert;Machine+Learning+Enthusiast;Open+Source+Contributor;Tech+Innovator" alt="Typing SVG" /></a>
 </p>
@@ -58,6 +60,7 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=venev-g&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=venev-g&layout=compact&langs_count=10&theme=synthwave"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venev-g&theme=synthwave&hide_border=false" alt="GitHub Streak" /><br/>
 </p>
 
 ## 🏆 GitHub Trophies
@@ -67,6 +70,7 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=venev-g&limit=6&theme=synthwave&combine_all_yearly_contributions=true)
+![Chirag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=venev-g&custom_title=Chirag's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ---
 <!--## 🌟 Achievements & Badges
