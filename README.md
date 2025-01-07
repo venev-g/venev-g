@@ -70,7 +70,7 @@
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=venev-g&limit=6&theme=synthwave&combine_all_yearly_contributions=true)
-![Chirag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=venev-g&custom_title=Chirag's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Chirag's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=venev-g&custom_title=Chirag's%20GitHub%20Activity%20Graph&layout=compact&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 ---
 <!--## 🌟 Achievements & Badges
