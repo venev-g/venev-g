@@ -25,7 +25,7 @@
 
 ✨ I'm always excited to collaborate on exciting projects or share ideas! You can reach out to me via:  
 
-📧 **Email:** [sawantch099@gmail.com](mailto:sawantch099@gmail.com)  
+📧 **Email:** [crazychirag5@gmail.com](mailto:crazychirag5@gmail.com)  
 💡 Got a cool idea? Let's talk! 💻
 
 ---
