@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=venev-g&label=Profile%20views&color=blueviolet&style=plastic" alt="Profile Views" />
 </p>
 <p align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=GPU+Accelerated+AI+Engineer;NVIDIA+Tech+Stack+Expert;Machine+Learning+Enthusiast;Open+Source+Contributor;Tech+Innovator" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Georgia&size=30&duration=2500&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=GPU+Accelerated+AI+Engineer;NVIDIA+Tech+Stack+Expert;Machine+Learning+Architect;Open+Source+Contributor;Tech+Innovator" alt="Typing SVG" /></a>
 </p>
 
 ---
