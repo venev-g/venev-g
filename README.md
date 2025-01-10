@@ -44,6 +44,7 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=flat&logo=googlecolab&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-%23ffffff.svg?style=flat&logo=ollama&logoColor=151515)
 
 ### 🚀 GPU Accelerated Tools
 ![CUDA](https://img.shields.io/badge/CUDA-2f2f2f.svg?style=flat&logo=NVIDIA&logoColor=green)
@@ -52,6 +53,8 @@
 ![NVIDIA Nsight](https://img.shields.io/badge/NVIDIA%20Nsight-2f2f2f.svg?style=flat&logo=NVIDIA&logoColor=green)
 ![NVIDIA DGX](https://img.shields.io/badge/NVIDIA%20DGX-2f2f2f.svg?style=flat&logo=NVIDIA&logoColor=green)
 ![NVIDIA NGC](https://img.shields.io/badge/NVIDIA%20NGC-2f2f2f.svg?style=flat&logo=NVIDIA&logoColor=green)
+![NVIDIA NeMo Framework](https://img.shields.io/badge/NVIDIA%20NeMo%20Framework-2f2f2f.svg?style=flat&logo=NVIDIA&logoColor=green)
+![NVIDIA TensorRT-LLM](https://img.shields.io/badge/NVIDIA%20TensorRT_LLM-2f2f2f.svg?style=flat&logo=NVIDIA&logoColor=green)
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -74,6 +77,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Polars](https://img.shields.io/badge/Polars-%23326ce5.svg?style=flat&logo=polars&logoColor=white)
 
 ### ☁️ Hosting/SaaS
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
@@ -122,6 +126,7 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=flat&logo=opengl)
+![LitServe](https://img.shields.io/badge/⚡LitServe-9369f5.svg?style=flat&logo=litserve&logoColor=green)
 
 ### 🛢️ Databases/ORMs
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white)
@@ -174,8 +179,10 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=venev-g&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=venev-g&layout=compact&langs_count=10&theme=synthwave"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=venev-g&theme=synthwave&hide_border=false" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=venev-g&theme=synthwave" alt="GitHub Streak" /></a>
 </p>
+
+
 
 ## 🏆 GitHub Trophies
 
