@@ -17,11 +17,7 @@
 
 ---
 
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=plastic&logo=X&logoColor=white)](https://twitter.com/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/_chirag_s)
-## 📬 Let's Connect!
+
 
 ✨ I'm always excited to collaborate on exciting projects or share ideas! You can reach out to me via:  
 
